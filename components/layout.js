@@ -65,7 +65,7 @@ export default function Layout({ children, home }) {
       {/* // mtd Componente hijo */}
       {!home && (
         <div className={styles.backToHome}>
-          <Link href="/">← Volver al index</Link>
+          <Link href="/">← Volver</Link>
         </div>
       )}
     </div>
