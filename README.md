@@ -4,12 +4,12 @@
 ----------
 
 #### Se uso NextJS
-```javascript
+```bash
 npm install 
 ```
 
 Comenzar a probar con 
-```javascript
+```bash
 npm run dev
 ```
 
